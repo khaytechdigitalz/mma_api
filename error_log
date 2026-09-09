@@ -1,0 +1,6 @@
+[04-Dec-2025 18:00:04 UTC] PHP Warning:  require(/home/edubiahj/shepherdhill.app.edubiller.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edubiahj/shepherdhill.app.edubiller.com/index.php on line 34
+[04-Dec-2025 18:00:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edubiahj/shepherdhill.app.edubiller.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edubiahj/shepherdhill.app.edubiller.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/edubiahj/shepherdhill.app.edubiller.com/index.php on line 34
+[04-Dec-2025 18:01:12 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.33. in /home/edubiahj/shepherdhill.app.edubiller.com/vendor/composer/platform_check.php on line 24
